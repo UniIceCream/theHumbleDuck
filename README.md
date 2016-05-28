@@ -1,4 +1,5 @@
 [theHumbleDuck](www.thehumbleduck.com)
 =============
 
-Eat duck.
+Eat duck. And, appreciate under-appreciated foods.
+
